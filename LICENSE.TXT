@@ -1,0 +1,6 @@
+SongBuilderJS License:
+All code developed by Jason Medeiros, belongs to Jason Medeiros and can be used non-commercially unless specified otherwise, 
+here, or in the future, by Jason Medeiros.
+
+Project Dependency Licenses:
+All code in all dependencies belong to their respective owners.  See the projects used for their specific licenses.

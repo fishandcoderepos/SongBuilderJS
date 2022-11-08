@@ -1,0 +1,21 @@
+{
+  "name": "songbuilderjs",
+  "version": "2.0.0",
+  "description": "Nodejs package for programatically creating music.",
+  "main": "songbuilder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jason Medeiros",
+  "license": "SEE LICENSE IN LICENSE.TXT",
+  "dependencies": {
+    "asciify": "^1.3.5",
+    "colors": "^1.4.0",
+    "command-line-args": "^5.2.1",
+    "command-line-usage": "^6.1.3",
+    "jsmidgen": "^0.1.5",
+    "json-decycle": "^2.0.1",
+    "scribbletune": "^5.0.2",
+    "stacktrace-js": "^2.0.2"
+  }
+}
